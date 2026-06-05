@@ -1,3 +1,6 @@
+# load renv
+renv::load('path') # Point to the project folder
+
 # import packages
 library('ggplot2', 'ggsignif')
 
